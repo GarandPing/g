@@ -1,2 +1,2 @@
 # swf-thingy
-im testing if this works so WIP for now
+will not work until ruffle supports AVM 2
